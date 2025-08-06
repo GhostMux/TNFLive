@@ -13,7 +13,11 @@
     }
 
     .hero-banner {
+<<<<<<< HEAD
       background: url('../img/THURSDAY_NIGHT_FIGHTS_SP-1.jpg') no-repeat center center / cover;
+=======
+      background: url('./img/THURSDAY_NIGHT_FIGHTS_SP-1.jpg') no-repeat center center/cover;
+>>>>>>> b51d338e833db0d6a291c05731b0bd917f9f5cce
       height: 100vh;
       position: relative;
       display: flex;
